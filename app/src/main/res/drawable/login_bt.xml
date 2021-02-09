@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android">
+    <svg width="167" height="56" viewBox="0 0 167 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="3" y="3" width="161" height="50" rx="25" fill="#292929" stroke="url(#paint0_linear)" stroke-width="6"/>
+        <defs>
+            <linearGradient id="paint0_linear" x1="13.3402" y1="8.54237" x2="165.801" y2="59.5803" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#871178"/>
+                <stop offset="0.47918" stop-color="#440DC6"/>
+                <stop offset="1" stop-color="#C219D1"/>
+            </linearGradient>
+        </defs>
+    </svg>
+
+</vector>
